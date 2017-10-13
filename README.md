@@ -13,6 +13,8 @@ Various types of searching are present but we will first start with
           searching every corner for that tshirt and when you will find it you will wear that and leave your room.
           Same way you will start your search from the starting element till the end and whenever you find that element you just simply
           return it.
- -unsorted:Here the elementsare stored in a neat sorted way (just like my room!)
+
+
+-unsorted:Here the elementsare stored in a neat sorted way (just like my room!)
    and to search the element we do not need to scan complete array if the value that we are searching to becomes less than the 
    next value we can simple conclude that element cannot be found.
